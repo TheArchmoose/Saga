@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Title page}{1}{0}{1}
+\beamer@sectionintoc {2}{Another section}{4}{0}{2}
+\beamer@sectionintoc {3}{Another section}{5}{0}{3}
+\beamer@sectionintoc {4}{Another section}{6}{0}{4}
+\beamer@sectionintoc {5}{Another section}{7}{0}{5}
